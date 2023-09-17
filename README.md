@@ -1,6 +1,6 @@
 # EDGE
 
-<h1>Link para o vídeo: https://youtu.be/nKrwFMKXkqg?si=fa31J_jloD0AIxwr</h1>
+<h1>Nosso vídeo: https://youtu.be/nKrwFMKXkqg?si=fa31J_jloD0AIxwr</h1>
 
 <h1>A internet das coisas</h1>
 
