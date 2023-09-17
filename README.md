@@ -29,3 +29,9 @@ Segurança e Monitoramento: A IoT também desempenha um papel crucial na seguran
 Novos Modelos de Negócios: A IoT está criando oportunidades para novos modelos de negócios, como serviços baseados em assinatura e produtos conectados. Empresas podem oferecer serviços adicionais, como análise de dados e manutenção preventiva.
 
 Desenvolvimento da Inteligência Artificial: A IoT gera grandes volumes de dados, que são alimentados em algoritmos de aprendizado de máquina e inteligência artificial. Isso impulsiona o desenvolvimento dessas tecnologias, tornando-as mais inteligentes e eficazes.</h5>
+
+<h2>Nosso trabalho:</h2>
+<h5>Para o funcionamento do nosso projeto de criação e cheacagem de saúde de um de um servidor usamos uma máquina virtual atráves da plataforma VMware
+e então usamos o Ubunto para baixar o sistema operaciaonal Linux, após isso fizemos a instalação da imagem na máquina virual e configuramos a rede de VM como bridge. Após a instalação da imagem na máquina virtual baixamos o postman e suas collection necessárias para fazer a intalação do Docker e por fim entramos na máquina virtual e através do terminal fizemos usamos alguns comanddos para instalar o docker e para obter daddos importantes da máquina virtual coomo IP, e por fim usamos esses dados para executar a ação de health check e concluir nosso trabalho.</h5>
+
+<h5>Com a execução desse trabalho fomos capazes de entender como funciona a criação de um servidor e também as possibilidades de coisas que são possíveise de fazer através de IOT, como monitoramento de algum projeto a distantância por exemplo.</h5>
