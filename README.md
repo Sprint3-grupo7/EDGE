@@ -34,7 +34,7 @@ Desenvolvimento da Inteligência Artificial: A IoT gera grandes volumes de dados
 
 <h2>Nosso trabalho:</h2>
 <h5>Para o funcionamento do nosso projeto de criação e cheacagem de saúde de um de um servidor usamos uma máquina virtual atráves da plataforma VMware
-e então usamos o Ubunto para baixar o sistema operaciaonal Linux, após isso fizemos a instalação da imagem na máquina virual e configuramos a rede de VM como bridge. Após a instalação da imagem na máquina virtual baixamos o postman e suas collection necessárias para fazer a intalação do Docker e por fim entramos na máquina virtual e através do terminal fizemos usamos alguns comanddos para instalar o docker e para obter daddos importantes da máquina virtual coomo IP, e por fim usamos esses dados para executar a ação de health check e concluir nosso trabalho.</h5>
-<img src="file:///C:/Users/luisg/OneDrive/Imagens/imagemiot.jpg">
+e então usamos o Ubunto para baixar o sistema operaciaonal Linux, após isso fizemos a instalação da imagem na máquina virual e configuramos a rede de VM como bridge. Após a instalação da imagem na máquina virtual baixamos o postman e suas collection necessárias para fazer a intalação do Docker e por fim entramos na máquina virtual e através do terminal fizemos usamos alguns comandos para instalar o docker gerando uma plataforma backend para o nosso servidor para obter daddos importantes da máquina virtual coomo IP, e por fim usamos esses dados para executar a ação de health check e concluir nosso trabalho.</h5>
+
 
 <h5>Com a execução desse trabalho fomos capazes de entender como funciona a criação de um servidor e também as possibilidades de coisas que são possíveise de fazer através de IOT, como monitoramento de algum projeto a distantância por exemplo.</h5>
